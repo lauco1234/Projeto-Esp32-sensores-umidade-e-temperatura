@@ -14,7 +14,7 @@ int main (void)
 {
  ...
 }
-```
+``` f
 
 Including a header file produces the same results as copying the header file
 into each source file that needs it. Such copying would be time-consuming

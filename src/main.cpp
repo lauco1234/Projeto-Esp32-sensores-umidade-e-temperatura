@@ -12,6 +12,7 @@ void setup() {
   dht.begin();
   Serial.println("Iniciando leitura do DHT11...");
 }
+//comentário git
 
 void loop() {
   float hum = dht.readHumidity();
